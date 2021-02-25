@@ -22,7 +22,7 @@ require (
 	github.com/hashicorp/hcl/v2 v2.8.2
 	github.com/hashicorp/terraform-plugin-docs v0.3.1
 	github.com/hashicorp/terraform-plugin-go v0.2.1
-	github.com/hashicorp/terraform-plugin-sdk/v2 v2.4.0
+	github.com/hashicorp/terraform-plugin-sdk/v2 v2.4.4
 	github.com/hashicorp/yamux v0.0.0-20200609203250-aecfd211c9ce // indirect
 	github.com/jhump/protoreflect v1.8.1 // indirect
 	github.com/kevinburke/ssh_config v0.0.0-20201106050909-4977a11b4351 // indirect
