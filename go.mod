@@ -16,7 +16,7 @@ require (
 	github.com/go-test/deep v1.0.7 // indirect
 	github.com/google/uuid v1.1.5 // indirect
 	github.com/hashicorp/errwrap v1.1.0 // indirect
-	github.com/hashicorp/go-argmapper v0.1.0
+	github.com/hashicorp/go-argmapper v0.2.0
 	github.com/hashicorp/go-getter v1.5.2 // indirect
 	github.com/hashicorp/go-uuid v1.0.2 // indirect
 	github.com/hashicorp/hcl/v2 v2.8.2
